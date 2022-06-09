@@ -7,7 +7,7 @@
 
 
 
-from Hash_map_supp import (DynamicArray, HashEntry,
+from hash_map_supp import (DynamicArray, HashEntry,
                         hash_function_1, hash_function_2)
 
 
